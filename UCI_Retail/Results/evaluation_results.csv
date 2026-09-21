@@ -1,2 +1,3 @@
-AUC,Accuracy,Precision,Recall,F1,True Negative,False Positive,False Negative,True Positive
-0.991151866,0.916,0.888888889,0.285714286,0.432432432,221,1,20,8
+,AUC,Accuracy,Precision,Recall,F1,True Negative,False Positive,False Negative,True Positive
+Logistic Regression,0.997971976,0.932,1,0.291666667,0.451612903,226,0,17,7
+SVM,0.997418879,0.976,1,0.75,0.857142857,226,0,6,18
