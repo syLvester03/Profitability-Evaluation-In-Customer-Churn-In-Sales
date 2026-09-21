@@ -1,0 +1,2 @@
+AUC,Accuracy,Precision,Recall,F1,True Negative,False Positive,False Negative,True Positive
+0.991151866,0.916,0.888888889,0.285714286,0.432432432,221,1,20,8
